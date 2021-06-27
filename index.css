@@ -1,0 +1,186 @@
+body{
+  background: url(web.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.Login-page{
+  max-width: 350px;
+  padding: 10% 0 0;
+  float: none;
+  margin: auto;
+}
+.form{
+  position: relative;
+  z-index: 1;
+  max-width: 360px
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: "center";
+}
+.form input{
+  font-family: "proxima nova";
+  outline: 1;
+  background: #f2f2f;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form button{
+  font-family: "proxima nova";
+  text-transform: uppercase;
+  outline: 0;
+  background: #0f606b;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.form button:hover,.form button:active{
+  background: #FFFFF;
+}
+.form .message{
+  margin: 15px 0 0;
+  color: orangered;
+  font-size: 24px;
+}
+
+.form .message{
+  color: #000000;
+  text-decoration: none;
+}
+.form .Register{
+  display: none;
+}
+
+
+
+
+
+.m{
+  margin: 0 12px 24px;
+  font-size: 24px;
+  max-width: 800px;
+  text-align: left;
+  position: fixed;
+  bottom: 35;
+}
+
+.m2{
+  margin: 0 15px 0;
+  font-size: 24px;
+  max-width: 300px;
+  float: right;
+  text-align: left;
+}
+.JIN{
+  margin: 0 75px 0;
+  font-size: 24px;
+  max-width: 200;
+  text-align: left;
+}
+.dig{
+  margin: 0 75px 6px;
+  font-size: 24px;
+  max-width: 200;
+  text-align: left;
+}
+.m3{
+  margin: 0 75px 0;
+  font-size: 18px;
+  max-width: 200;
+  text-align: left;
+}
+.lo{
+  font-family: "proxima nova";
+  text-transform: uppercase;
+  outline: 0;
+  background: #0F606b;
+  width: 5%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  cursor: pointer;
+  float: right;
+}
+.c{
+  position: relative;
+  z-index: 1;
+  background: rgba(150, 150, 150, .5);
+  max-width: 350px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: "center"
+  float: left;
+}
+.ac{
+  font-family: "proxima nova";
+  text-transform: uppercase;
+  outline: 0;
+  background: #0F606b;
+  width: 5%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  cursor: pointer;
+  float: right;
+}
+.c button{
+  font-family: "proxima nova";
+  text-transform: uppercase;
+  outline: 0;
+  background: #0F606b;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 24px;
+  cursor: pointer;
+}
+.ho{
+  font-family: "proxima nova";
+  text-transform: uppercase;
+  outline: 0;
+  background: #0F606b;
+  width: 5%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  cursor: pointer;
+  float: right;
+  text-align: center;
+}
+.ed{
+  font-family: "proxima nova";
+  text-transform: uppercase;
+  text-align: center;
+  outline: 0;
+  background: #0F606b;
+  padding: 30px;
+
+}
+
+.uup{
+  position: relative;
+  z-index: 1;
+  background: rgba(150, 150, 150, .5);
+  max-width: 350px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: "center"
+  float: left;
+}
+.JDPH{
+  max-width: 750px;
+  font-size: 24px;
+  text-align: center;
+}
